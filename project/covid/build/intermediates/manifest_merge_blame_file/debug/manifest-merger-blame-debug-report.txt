@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.covidapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:7:5-33:19
+14        android:allowBackup="true"
+14-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/launcher"
+17-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:9:9-42
+18        android:label="@string/app_name"
+18-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/CovidApp" >
+21-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:13:9-40
+22        <activity android:name="com.example.covidapp.ui.activity.PrecautionActivity" />
+22-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:15:9-68
+22-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:15:19-65
+23        <activity android:name="com.example.covidapp.ui.activity.SymptomsActivity" />
+23-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:16:9-66
+23-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:16:19-63
+24
+25        <uses-library
+25-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:19:9-21:40
+26            android:name="org.apache.http.legacy"
+26-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:20:13-50
+27            android:required="false" />
+27-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:21:13-37
+28
+29        <activity
+29-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:23:9-30:20
+30            android:name="com.example.covidapp.ui.activity.SplashScreen"
+30-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:23:19-59
+31            android:theme="@style/splashScreenTheme" >
+31-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:24:13-53
+32            <intent-filter>
+32-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:25:13-29:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:26:17-69
+33-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:26:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:28:17-77
+35-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:28:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity android:name="com.example.covidapp.ui.activity.MainActivity" />
+38-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:32:9-61
+38-->F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:32:19-59
+39    </application>
+40
+41</manifest>
