@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] D:\Gradle\caches\transforms-3\ac7d96a6d2068ba0f7802aaf44d82513\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] D:\Gradle\caches\transforms-3\d7302cc8f6638b0989c47291608e32f2\transformed\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Gradle\caches\transforms-3\0a555b73b0d256b0682da66f83385bcd\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] D:\Gradle\caches\transforms-3\fa0cded9d6d71c24c268e7a072aaf446\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Gradle\caches\transforms-3\4c0d38418fd9c871cd6162e2d71e7c84\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] D:\Gradle\caches\transforms-3\a1399b6a946c98fa936b91083c89a702\transformed\jetified-volley-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Gradle\caches\transforms-3\1e4a400b69e2c713a564f6c3d922e52d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Gradle\caches\transforms-3\b7d92382ea0508056844083b25f701ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Gradle\caches\transforms-3\d0dcb72149191fdc446a0c92c8ee4ce9\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Gradle\caches\transforms-3\305a230f4500dcf5190456e4ee119ed3\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Gradle\caches\transforms-3\1275b20afadab1f50ca4632316a0722b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Gradle\caches\transforms-3\ab1126a0a5e86c61772ee6a6a74cd340\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Gradle\caches\transforms-3\7d2c7b87479b7663981d5fd0d2e88d15\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Gradle\caches\transforms-3\a254cf27d362c6c1a2e81f46da9825ae\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Gradle\caches\transforms-3\74903d3525d78c9c2334457416917a1f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Gradle\caches\transforms-3\447610821b3cf9fb07f2ee04f27fead7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Gradle\caches\transforms-3\139e61579864016fd372cf4c2f632231\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\Gradle\caches\transforms-3\f679dc3652606ba38fed34552bfaeb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Gradle\caches\transforms-3\01f4d3119309bd40f2f04e27f368a125\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Gradle\caches\transforms-3\056c4dce577b23c9fb66bc5a88e7b7d6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Gradle\caches\transforms-3\03d4c6520269df5bcf28051501453d11\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Gradle\caches\transforms-3\11349934d6e5a7f2c70ad516229c5e67\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Gradle\caches\transforms-3\16a11e851e96d19a01dea5b8590cea8a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Gradle\caches\transforms-3\3b1c62593c449c9738c807e50d6d2d56\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Gradle\caches\transforms-3\8e4b7d41b995134782b4ada99fc27d1d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Gradle\caches\transforms-3\cfcace8044757b692a45f72a0cc3eb56\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Gradle\caches\transforms-3\462870319a6bd94cc4285fcfe1c2cf57\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Gradle\caches\transforms-3\b4f0ea597f5d1e2fbab936640d45eb37\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Gradle\caches\transforms-3\487f8e9f12924b21732562c2a266948c\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Gradle\caches\transforms-3\354ad57a02ea69db55b880ecb7ed0831\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:7:5-33:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] D:\Gradle\caches\transforms-3\d7302cc8f6638b0989c47291608e32f2\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] D:\Gradle\caches\transforms-3\d7302cc8f6638b0989c47291608e32f2\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Gradle\caches\transforms-3\4c0d38418fd9c871cd6162e2d71e7c84\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Gradle\caches\transforms-3\4c0d38418fd9c871cd6162e2d71e7c84\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] D:\Gradle\caches\transforms-3\a1399b6a946c98fa936b91083c89a702\transformed\jetified-volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] D:\Gradle\caches\transforms-3\a1399b6a946c98fa936b91083c89a702\transformed\jetified-volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Gradle\caches\transforms-3\11349934d6e5a7f2c70ad516229c5e67\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Gradle\caches\transforms-3\11349934d6e5a7f2c70ad516229c5e67\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.covidapp.ui.activity.PrecautionActivity
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:15:19-65
+activity#com.example.covidapp.ui.activity.SymptomsActivity
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:16:9-66
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:16:19-63
+uses-library#org.apache.http.legacy
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:19:9-21:40
+	android:required
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:20:13-50
+activity#com.example.covidapp.ui.activity.SplashScreen
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:theme
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:23:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.covidapp.ui.activity.MainActivity
+ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml:32:19-59
+uses-sdk
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.3] D:\Gradle\caches\transforms-3\ac7d96a6d2068ba0f7802aaf44d82513\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] D:\Gradle\caches\transforms-3\ac7d96a6d2068ba0f7802aaf44d82513\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] D:\Gradle\caches\transforms-3\d7302cc8f6638b0989c47291608e32f2\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] D:\Gradle\caches\transforms-3\d7302cc8f6638b0989c47291608e32f2\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Gradle\caches\transforms-3\0a555b73b0d256b0682da66f83385bcd\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Gradle\caches\transforms-3\0a555b73b0d256b0682da66f83385bcd\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] D:\Gradle\caches\transforms-3\fa0cded9d6d71c24c268e7a072aaf446\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] D:\Gradle\caches\transforms-3\fa0cded9d6d71c24c268e7a072aaf446\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Gradle\caches\transforms-3\4c0d38418fd9c871cd6162e2d71e7c84\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Gradle\caches\transforms-3\4c0d38418fd9c871cd6162e2d71e7c84\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] D:\Gradle\caches\transforms-3\a1399b6a946c98fa936b91083c89a702\transformed\jetified-volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] D:\Gradle\caches\transforms-3\a1399b6a946c98fa936b91083c89a702\transformed\jetified-volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Gradle\caches\transforms-3\1e4a400b69e2c713a564f6c3d922e52d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Gradle\caches\transforms-3\1e4a400b69e2c713a564f6c3d922e52d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Gradle\caches\transforms-3\b7d92382ea0508056844083b25f701ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Gradle\caches\transforms-3\b7d92382ea0508056844083b25f701ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Gradle\caches\transforms-3\d0dcb72149191fdc446a0c92c8ee4ce9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Gradle\caches\transforms-3\d0dcb72149191fdc446a0c92c8ee4ce9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Gradle\caches\transforms-3\305a230f4500dcf5190456e4ee119ed3\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Gradle\caches\transforms-3\305a230f4500dcf5190456e4ee119ed3\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Gradle\caches\transforms-3\1275b20afadab1f50ca4632316a0722b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Gradle\caches\transforms-3\1275b20afadab1f50ca4632316a0722b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Gradle\caches\transforms-3\ab1126a0a5e86c61772ee6a6a74cd340\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Gradle\caches\transforms-3\ab1126a0a5e86c61772ee6a6a74cd340\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Gradle\caches\transforms-3\7d2c7b87479b7663981d5fd0d2e88d15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Gradle\caches\transforms-3\7d2c7b87479b7663981d5fd0d2e88d15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Gradle\caches\transforms-3\a254cf27d362c6c1a2e81f46da9825ae\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Gradle\caches\transforms-3\a254cf27d362c6c1a2e81f46da9825ae\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Gradle\caches\transforms-3\74903d3525d78c9c2334457416917a1f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Gradle\caches\transforms-3\74903d3525d78c9c2334457416917a1f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Gradle\caches\transforms-3\447610821b3cf9fb07f2ee04f27fead7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Gradle\caches\transforms-3\447610821b3cf9fb07f2ee04f27fead7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Gradle\caches\transforms-3\139e61579864016fd372cf4c2f632231\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Gradle\caches\transforms-3\139e61579864016fd372cf4c2f632231\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\Gradle\caches\transforms-3\f679dc3652606ba38fed34552bfaeb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\Gradle\caches\transforms-3\f679dc3652606ba38fed34552bfaeb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Gradle\caches\transforms-3\01f4d3119309bd40f2f04e27f368a125\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Gradle\caches\transforms-3\01f4d3119309bd40f2f04e27f368a125\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Gradle\caches\transforms-3\056c4dce577b23c9fb66bc5a88e7b7d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Gradle\caches\transforms-3\056c4dce577b23c9fb66bc5a88e7b7d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] D:\Gradle\caches\transforms-3\7d5dbc21420273930c6b8b171fad40e8\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Gradle\caches\transforms-3\03d4c6520269df5bcf28051501453d11\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Gradle\caches\transforms-3\03d4c6520269df5bcf28051501453d11\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Gradle\caches\transforms-3\11349934d6e5a7f2c70ad516229c5e67\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Gradle\caches\transforms-3\11349934d6e5a7f2c70ad516229c5e67\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Gradle\caches\transforms-3\16a11e851e96d19a01dea5b8590cea8a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Gradle\caches\transforms-3\16a11e851e96d19a01dea5b8590cea8a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Gradle\caches\transforms-3\3b1c62593c449c9738c807e50d6d2d56\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Gradle\caches\transforms-3\3b1c62593c449c9738c807e50d6d2d56\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Gradle\caches\transforms-3\8e4b7d41b995134782b4ada99fc27d1d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Gradle\caches\transforms-3\8e4b7d41b995134782b4ada99fc27d1d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Gradle\caches\transforms-3\cfcace8044757b692a45f72a0cc3eb56\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Gradle\caches\transforms-3\cfcace8044757b692a45f72a0cc3eb56\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Gradle\caches\transforms-3\462870319a6bd94cc4285fcfe1c2cf57\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Gradle\caches\transforms-3\462870319a6bd94cc4285fcfe1c2cf57\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Gradle\caches\transforms-3\b4f0ea597f5d1e2fbab936640d45eb37\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Gradle\caches\transforms-3\b4f0ea597f5d1e2fbab936640d45eb37\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Gradle\caches\transforms-3\487f8e9f12924b21732562c2a266948c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Gradle\caches\transforms-3\487f8e9f12924b21732562c2a266948c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Gradle\caches\transforms-3\354ad57a02ea69db55b880ecb7ed0831\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Gradle\caches\transforms-3\354ad57a02ea69db55b880ecb7ed0831\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kurssit\LaaketiedeTekniikka\MobileProgramming\examples\Covid-App-master\app\src\main\AndroidManifest.xml

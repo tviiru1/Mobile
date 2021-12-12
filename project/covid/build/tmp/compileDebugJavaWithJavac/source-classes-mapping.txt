@@ -1,0 +1,14 @@
+com/example/covidapp/databinding/ActivityMainBinding.java
+ com.example.covidapp.databinding.ActivityMainBinding
+com/example/covidapp/databinding/ActivitySplashScreenBinding.java
+ com.example.covidapp.databinding.ActivitySplashScreenBinding
+com/example/covidapp/databinding/ActivitySymptomsBinding.java
+ com.example.covidapp.databinding.ActivitySymptomsBinding
+com/example/covidapp/databinding/ItemSymptomsBinding.java
+ com.example.covidapp.databinding.ItemSymptomsBinding
+com/example/covidapp/BuildConfig.java
+ com.example.covidapp.BuildConfig
+com/example/covidapp/databinding/ItemPrecautionsBinding.java
+ com.example.covidapp.databinding.ItemPrecautionsBinding
+com/example/covidapp/databinding/ActivityPrecautionBinding.java
+ com.example.covidapp.databinding.ActivityPrecautionBinding
