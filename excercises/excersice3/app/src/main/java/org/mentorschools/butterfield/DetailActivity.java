@@ -30,12 +30,12 @@ public class DetailActivity extends AppCompatActivity {
 
     }
 
-    private int setImg(int index){
+    private int getImg(int index){
 
             switch(index){
                 case 0: return R.drawable.peaches;
-                case 1: return R.drawable.tomato;
-                case 2: return R.drawable.squash;
+                case 1: return R.drawable.squash;
+                case 2: return R.drawable.tomato;
                 default: return -1;
 
             }
@@ -53,8 +53,8 @@ public class DetailActivity extends AppCompatActivity {
         BitmapFactory.decodeResource(getResources(), pic, options);
 
         int imgWidth = options.outWidth;
-        //int screenWidth = screen.getWidth();
-        int screenWidth = 0;
+        int screenWidth = screen.getWidth();
+
 
         if(imgWidth > screenWidth){
 
@@ -70,7 +70,4 @@ public class DetailActivity extends AppCompatActivity {
 
     }
 
-    public int getImg(int image) {
-        return image;
-    }
 }
