@@ -56,17 +56,14 @@ public class DetailActivity extends AppCompatActivity {
         int screenWidth = screen.getWidth();
 
 
-        if(imgWidth > screenWidth){
+        if(imgWidth > screenWidth) {
 
             int ratio = Math.round((float) imgWidth / (float) screenWidth);
             options.inSampleSize = ratio;
-
+        }
             options.inJustDecodeBounds = false;
             Bitmap scaledImg = BitmapFactory.decodeResource(getResources(), pic, options);
             img.setImageBitmap(scaledImg);
-
-
-        }
 
     }
 
